@@ -21,6 +21,7 @@ gulp.task('copy-js', function () {
   var js_libs = [
       './dev/components/knockout/dist/knockout.js',
       './dev/components/requirejs/require.js',
+      './dev/components/jquery/jquery.min.js',
       './dev/js/**'
     ];
   

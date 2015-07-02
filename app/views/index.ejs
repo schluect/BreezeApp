@@ -2,5 +2,8 @@
 
   <h1><%-title %></h1>
   <p>Welcome to <span data-bind="text: Title"></span></p>
-
+  <a data-bind="navigate: '/testnavigate'">/testnavigate</a>
+  <a data-bind="navigate: { 'data': {'testdatakey': 'test'}, 'title':'testtitle', 'url':'/testnavigate-with-data' }">/testnavigate with data</a>
+  <a href="google.com">google.com</a>
+  <a href="http://google.com">http://google.com</a>
 <% include footer %>

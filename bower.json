@@ -9,6 +9,7 @@
   "dependencies": {
     "knockout": "~3.3.0",
     "requirejs": "~2.1.18",
-    "domready": "~1.0.8"
+    "domready": "~1.0.8",
+    "jquery": "~2.1.4"
   }
 }
