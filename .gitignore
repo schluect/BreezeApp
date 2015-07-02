@@ -1,3 +1,5 @@
 node_modules/
-public/components
+dev/components
 .sass-cache
+.c9
+.git
