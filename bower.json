@@ -1,0 +1,14 @@
+{
+  "name": "chat-example",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "knockout": "~3.3.0",
+    "requirejs": "~2.1.18",
+    "domready": "~1.0.8"
+  }
+}
